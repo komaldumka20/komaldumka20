@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **Python, Java , HTML , CSS , C**
+- 💬 Ask me about **Python, Java , HTML , CSS , C , Bootstrap**
 
 - 📫 How to reach me **dumkakomal402@gmail.com**
 
