@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Python, Java , HTML , CSS , C , Bootstrap  ,Node.JS**
+- 💬 Ask me about **Python, Java , HTML , CSS , C , Bootstrap  ,Node.JS , Java Script **
 
 - 📫 How to reach me **dumkakomal402@gmail.com**
 
