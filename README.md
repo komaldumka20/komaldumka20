@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Python, Java , HTML , CSS , C , Bootstrap  ,Node.JS , Java Script **
+- 💬 Ask me about **Python, Java , HTML , CSS , C , Bootstrap  ,Node.JS , Java Script**
 
 - 📫 How to reach me **dumkakomal402@gmail.com**
 
